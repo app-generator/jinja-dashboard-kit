@@ -40,7 +40,7 @@ Visit `http://localhost:85` in your browser. The app should be up & running.
 
 <br />
 
-![Jinja Template - Datta Able, thumbnail image.](https://user-images.githubusercontent.com/51070104/145182285-7c764d86-1fdb-411b-8cdf-db406b358a29.png)
+![Jinja Template - DashboardKit, thumbnail image.](https://user-images.githubusercontent.com/51070104/148523614-6947739e-a343-4f20-ad4c-cfaa29b71dc7.jpg)
 
 <br />
 
